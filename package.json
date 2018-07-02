@@ -1,0 +1,10 @@
+{
+  "name": "ccnconsultora",
+  "version": "1.0.0",
+  "description": "consultora diego",
+  "main": "index.js",
+  "repository": "https://github.com/sebamatusr/ccnconsultora.git",
+  "author": "<sebamatusr@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
