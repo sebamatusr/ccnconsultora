@@ -1,4 +1,4 @@
 # ccnconsultora
-Consultora diego
+Consultora
 
 Web ccn consultora
